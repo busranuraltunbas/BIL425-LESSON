@@ -50,5 +50,10 @@ const appendFileAsync = async (path, data) =>{
 ////????????
 //writeFileAsync(path.resolve(__dirname, 'text.txt'), 'data') 
 //.then() => appendFileAsync(path.resolve(__dirname, 'text.txt'), 'Merhaba'))
+//.then() => appendFileAsync(path.resolve(__dirname, 'text.txt'), 'Merhaba'))
+//.then() => appendFileAsync(path.resolve(__dirname, 'text.txt'), 'Merhaba'))
 //.catch(err => console.log(err))
+
+
+
 
